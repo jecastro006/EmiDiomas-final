@@ -1,0 +1,15 @@
+*.iml
+.gradle/
+.kotlin/
+.idea/
+local.properties
+**/build/
+.cxx/
+.externalNativeBuild/
+.DS_Store
+.env
+.env.*
+.venv/
+__pycache__/
+*.pyc
+*.apk
